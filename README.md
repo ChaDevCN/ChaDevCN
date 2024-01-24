@@ -9,7 +9,7 @@
 数据库： Redis, MySQL, MongoDB
 其他技术： docker,
 
-📫 联系方式 meixiguozao@outlook.com
+📫 联系方式
 
 Email： [meixiguozao@outlook.com](mailto:meixiguozao@outlook.com)
 
