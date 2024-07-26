@@ -2,13 +2,14 @@
 
 💼 工作经历
 
-前端开发工程师 | 某外企外包 | 2023.3.28 - 至今
+前端开发工程师 | 某外企外包   | 2023.3.28 - 2024.2.26
+前端开发工程师 | 不知名小公司 | 2023.3.20 - 至今
 
 🚀 技能
 
-前端框架： React, Vue,Next
+前端框架： React,Umi,Next,Vue,Nuxt,Astro...
 
-后端框架： Nest.js,koa,express
+后端框架： Nest,koa,express
 
 跨平台开发： Taro, Uniapp,electron
 
