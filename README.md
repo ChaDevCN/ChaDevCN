@@ -20,7 +20,7 @@
 
 📫 联系方式
 
-Email： [meixiguozao@outlook.com](mailto:meixiguozao@outlook.com)
+Email： [charlie.l1u@outlook.com](mailto:charlie.l1u@outlook.com)
 
 
 感谢您访问我的GitHub页面！如果有任何问题或合作的机会，欢迎随时与我联系。
